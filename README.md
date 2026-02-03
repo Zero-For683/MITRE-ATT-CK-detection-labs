@@ -3,8 +3,7 @@
 **Focus:** Build out labs vulnerable to a specific technique in the MITRE ATT&CK framework, then detect maliciuos activity related to that technique
 
 **Examples:**
-```Show more11:00 AMI'll help you create MITRE ATT&CK detection labs that complement your web hacking focus. Here's a structured approach:
-markdown## MITRE ATT&CK Detection Labs
+ MITRE ATT&CK Detection Labs
 
 **Focus:** Build vulnerable web applications/environments that demonstrate specific MITRE ATT&CK techniques, then develop detection mechanisms to identify malicious activity related to those techniques.
 
